@@ -1,0 +1,48 @@
+/* Personnalisation du style de la page */
+
+body {
+  padding-top: 60px; /* Ajoute un espace en haut pour le menu de navigation fixe */
+}
+
+.container {
+  margin-top: 40px; /* Ajoute un espace entre le contenu et le menu de navigation */
+}
+
+footer {
+  margin-top: 40px; /* Ajoute un espace entre le contenu et le pied de page */
+}
+
+/* Personnalisation du menu de navigation */
+
+.navbar {
+  background-color: #ffffff; /* Couleur de fond du menu */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+.navbar-brand {
+  font-weight: bold; /* Texte du logo en gras */
+}
+
+.navbar-nav .nav-link {
+  color: #333333; /* Couleur du texte des liens */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ff0000; /* Couleur du texte des liens au survol */
+}
+
+/* Personnalisation du pied de page */
+
+footer {
+  background-color: #f8f8f8; /* Couleur de fond du pied de page */
+}
+
+/* Autres styles personnalisés */
+
+h1 {
+  font-size: 36px; /* Taille de la police du titre */
+}
+
+p {
+  font-size: 18px; /* Taille de la police du paragraphe */
+}
